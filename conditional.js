@@ -16,7 +16,7 @@ else {
     alert("this in not good buddy")
 }
 
-/*let a = prompt("Hey whats you age?");
+let a = prompt("Hey whats you age?");
 a = Number.parseInt(a); // Converting the string to a number
 if(a<0){
   alert("This is an invalid age");
