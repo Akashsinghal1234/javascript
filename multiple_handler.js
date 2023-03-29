@@ -17,3 +17,4 @@ p1.then(() => {
 p1.then(() => {
     console.log("Congratulations this promise is now resolved")
 })
+
